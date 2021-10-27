@@ -1,6 +1,6 @@
 # AWS-SageMaker-Notebook-Instance
 
-<img src="https://www.pngfind.com/pngs/m/167-1678195_amazon-sagemaker-first-thoughts-facebook-like-button-hd.png" width="1000" height="400">
+<img src="https://www.pngfind.com/pngs/m/167-1678195_amazon-sagemaker-first-thoughts-facebook-like-button-hd.png" width="1000" height="300">
 
 # Description 
 
