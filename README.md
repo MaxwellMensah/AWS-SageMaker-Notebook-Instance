@@ -35,8 +35,8 @@ SageMaker also provides sample notebooks that contain complete code walkthroughs
 ## Reference
 💻 (https://docs.aws.amazon.com/sagemaker/latest/dg/gs.html)
 
-    🔍🗂️Amazon Web Service 👉🔺Services 👉 🧠Machine Learning 👉 📁SageMaker 
+    🔍 Amazon Web Service 👉 🔺Services 👉 🧠Machine Learning 👉 📁SageMaker 
                         
-                               👉🔺Services 👉 🗄️Storage 👉 🪣S3
+                               👉 🔺Services 👉 🗄️Storage 👉 🪣S3
 
 <img src="https://learncodeonline.in/gitone.png" width="70" height="20">**〽️a❌!e_**
