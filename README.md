@@ -1,6 +1,6 @@
 # AWS-SageMaker-Notebook-Instance
 
-<img src="https://www.polynique.com/static/f9bd908794ab835e23bdbac302b1ea3b/be53d/Amazon-Web-Services.webp" width="1000" height="400">
+<img src="https://www.polynique.com/static/f9bd908794ab835e23bdbac302b1ea3b/be53d/Amazon-Web-Services.webp" width="1000" height="500">
 
 # Description 
 
